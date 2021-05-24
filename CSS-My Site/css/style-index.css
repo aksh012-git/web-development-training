@@ -1,0 +1,35 @@
+body{
+  background-color: #4a1c40;
+  margin: 0px;
+}
+h1{
+  margin: 0px;
+}
+h3{
+  color: white;
+}
+pre{
+  color: white;
+}
+div{
+  height: 200px;
+  width: 200px;
+}
+.top-container{
+  background-color: #caf7e3;
+  border: 10px;
+  border-style: solid;
+  padding: 20px;
+}
+.middle-container{
+  background-color: #185adb;
+  margin-left: 260px;
+  border: 20px;
+  border-style: solid;
+}
+.bottom-container{
+  background-color: #ffbbcc;
+  margin-left: 500px;
+  border: 10px;
+  border-style: solid;
+}

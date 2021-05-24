@@ -1,0 +1,94 @@
+.top-container{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: inline-block;
+}
+.middle-container{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  display: inline-block;
+}
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  display: inline-block;
+}
+
+.top-container1{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: inline-block;
+  position: relative;
+  left: 410px;
+}
+.middle-container1{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  display: inline-block;
+  position: relative;
+  right: 205px;
+}
+.bottom-container1{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  display: inline-block;
+  position: relative;
+  right: 205px;
+}
+
+
+.top-container2{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: fixed;
+}
+.middle-container2{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+.bottom-container2{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+}
+.bottom-container-2{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+}
+
+
+.top-container3{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+.middle-container3{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  position: absolute;
+}
+.bottom-container3{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  position: relative;
+  left: 200px;
+}
+.bottom-container-3{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  position: relative;
+  left: 200px;
+  bottom: 400px;
+}

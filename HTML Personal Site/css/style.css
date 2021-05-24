@@ -1,0 +1,36 @@
+
+/* --------------------- tag selectors ---------------------------*/
+body{
+  background-color:#caf7e3;
+}
+hr{
+  width: 50%;
+  /* top and bottom | left and right */
+  /* top | left and right | bottom */
+  /* top | right | bottom | left */
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 5px;
+}
+h1,h3{
+  color: #7868e6;
+}
+img:hover{
+  height: 300px;
+  width: 300px;
+}
+
+/* --------------------- class selectors ---------------------------*/
+.natural-img{
+  height: 250px;
+  width: 200px;
+}
+.registan-img{
+  height: 250px;
+  width: 250px;
+}
+
+/* --------------------- id selectors ---------------------------*/
+#work-experience{
+  color: red;
+}
