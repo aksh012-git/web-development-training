@@ -15,11 +15,16 @@ div{
   height: 200px;
   width: 200px;
 }
+table{
+  margin: 0 auto 0 auto;
+}
 .top-container{
   background-color: #caf7e3;
   border: 10px;
   border-style: solid;
   padding: 20px;
+  text-align: center;
+  margin: auto;
 }
 .middle-container{
   background-color: #185adb;

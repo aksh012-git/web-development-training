@@ -1,0 +1,50 @@
+body{
+  background-color: #caf7e3;
+  text-align: center;
+}
+.cloud-img-1{
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top:10px;
+  right: 550px;
+
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size:50px;
+}
+.cloud-img-2{
+  height: 150px;
+  width: 150px;
+  position: absolute;
+}
+.hills-img{
+  height: 430px;
+  width: 600px;
+  margin:80px auto 0 auto;
+
+}
+.top-container{
+  text-align: center;
+  padding-top: 100px;
+  margin: auto;
+  font-family: 'Pattaya', sans-serif;
+}
+p{
+  line-height: 2;
+}
+
+.city-img{
+  height: 400px;
+  width: 300px;
+  float: left;
+  margin-right:30px;
+}
+.city-img-div{
+  margin: 30px 200px 0px 200px;
+  text-align:left;
+}
+.clear-float-left{
+  clear: left;
+}
