@@ -1,0 +1,12 @@
+.xxx .title{
+    color:red;
+}
+
+
+
+@media print {
+  body{
+    color: red;
+    margin: 0px;
+  }
+}
